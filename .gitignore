@@ -1,0 +1,13 @@
+node_modules/
+public/
+bower_components
+
+package-lock.json
+.grunt
+.npm
+.eslintcache
+*.tgz
+.env
+.DS_Store
+
+gitcmd

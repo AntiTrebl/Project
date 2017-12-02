@@ -40,6 +40,6 @@ Delete **.git** directory
 $ git init
 $ git add .
 $ git commit -m "Initial commit"
-$ git remote add origin https://github.com/you_repository/you_project
-$ git push -f origin master
+$ git remote add remote_name https://github.com/you_repository/you_project
+$ git push -f remote_name master
 ```
